@@ -11,17 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://nssriraam.github.io/portfolio" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0c0918?style=flat-square&logoColor=white"/>
-  </a>
+  <a href="https://nssriraam.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0c0918?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:nosriraam7@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:nosriraam7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -133,17 +127,11 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://nssriraam.github.io/portfolio" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Portfolio-7255B0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+  <a href="https://nssriraam.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-7255B0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
-  <a href="mailto:nosriraam7@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:nosriraam7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
