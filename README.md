@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>CS Undergraduate · Blue Team · SOC & Cloud Security</b><br/>
-  United Institute of Technology, Coimbatore &nbsp;|&nbsp; Graduating 2027
-</p>
+  </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend">
@@ -67,12 +66,52 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 
 ### 🔒 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 [AI CloudTrail Anomaly Detector](https://github.com/nssriraam/AI-CloudTrail-Analyzer) | Local LLM pipeline triaging 20-event attack chain — brute force → privilege escalation → exfiltration | Python · Ollama · AWS |
-| ☁️ [AWS CSPM Tool](https://github.com/nssriraam/AWS-CSPM-Tool) | Cloud security posture scanner — IAM misconfigs, S3 public access, SG risks, CloudTrail gaps | Python · Boto3 · AWS |
-| 🎣 [Phishing Email Analysis](https://github.com/nssriraam/Phishing-Email-Analysis) | Real sample investigation, header parsing, IOC extraction, MITRE ATT&CK mapping | Python · Email Forensics |
-| 🏠 [SOC Home Lab](https://github.com/nssriraam/SOC-Home-Lab) | 8 blue team projects — Linux, Windows, AWS, Splunk, Wazuh, MITRE ATT&CK | Multi-platform |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI CloudTrail Anomaly Detector</h3>
+      <p>Local LLM pipeline (Python + Ollama) that triages a 20-event AWS attack chain — brute force → privilege escalation → defense evasion → data exfiltration. Auto-generates SOC incident reports with MITRE ATT&CK mapping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      </p>
+      <a href="https://github.com/nssriraam/AI-CloudTrail-Analyzer">→ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ AWS CSPM Tool</h3>
+      <p>Custom cloud security posture scanner built with Python + Boto3. Audits AWS environments for S3 public access, overpermissive IAM policies, risky security groups, and CloudTrail logging gaps. Outputs prioritized risk reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      </p>
+      <a href="https://github.com/nssriraam/AWS-CSPM-Tool">→ View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎣 Phishing Email Analysis</h3>
+      <p>Hands-on phishing email forensics lab — real sample investigation, Python-based header parsing, IOC extraction, and full MITRE ATT&CK mapping across the attack lifecycle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/nssriraam/Phishing-Email-Analysis">→ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 SOC Home Lab</h3>
+      <p>8 structured blue team projects — Linux & Windows log analysis, AWS CloudTrail & IAM monitoring, Splunk SSH detection, Wazuh SIEM deployment, and a full SOC incident case study with MITRE ATT&CK mapping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Wazuh-3B86C6?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+      <a href="https://github.com/nssriraam/SOC-Home-Lab">→ View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -80,6 +119,32 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 
 - 🔨 Building more cloud security tooling and detection engineering projects
 - 👀 Open to **entry-level SOC Analyst** and **Cloud Security** roles across India
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://nssriraam.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-7255B0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nosriraam7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/nssriraam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to entry-level SOC Analyst and Cloud Security roles across India — feel free to reach out!</i>
+</p>
 
 ---
 
