@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>CS Undergraduate · Blue Team · SOC & Cloud Security</b><br/>
-  United Institute of Technology, Coimbatore &nbsp;|&nbsp; Graduating 2027
-</p>
+  </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend">
