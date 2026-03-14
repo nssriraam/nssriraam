@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>CS Undergraduate · Blue Team · SOC & Cloud Security</b><br/>
-  United Institute of Technology, Coimbatore &nbsp;|&nbsp; Graduating 2027
-</p>
+  </p>
 
 <p align="center">
   <a href="https://nssriraam.github.io/portfolio">🌐 Portfolio</a> &nbsp;&nbsp;
