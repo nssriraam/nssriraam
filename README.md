@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>CS Undergraduate · Blue Team · SOC & Cloud Security</b><br/>
-  </p>
+  United Institute of Technology, Coimbatore &nbsp;|&nbsp; Graduating 2027
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend">
@@ -11,9 +12,17 @@
 </p>
 
 <p align="center">
-  <a href="https://nssriraam.github.io/portfolio">🌐 Portfolio</a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226">💼 LinkedIn</a> &nbsp;&nbsp;
-  <a href="mailto:nosriraam7@gmail.com">📧 Email</a>
+  <a href="https://nssriraam.github.io/portfolio" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0c0918?style=flat-square&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nosriraam7@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -125,23 +134,21 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226">
+  <a href="https://linkedin.com/in/sriraam-nagarajan-b0b100226" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://nssriraam.github.io/portfolio">
+  <a href="https://nssriraam.github.io/portfolio" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-7255B0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:nosriraam7@gmail.com">
+  <a href="mailto:nosriraam7@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/nssriraam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>"Data doesn't hide. People do. Logs catch both."</i>
+  💬 &nbsp;<i>"Data doesn't hide. People do. Logs catch both."</i>
 </p>
