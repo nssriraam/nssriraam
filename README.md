@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=500&lines=Blue+Team+%7C+SOC+Analyst;Cloud+Security+%7C+AWS;Threat+Detection+%7C+SIEM;MITRE+ATT%26CK+%7C+Incident+Response;Building+real+security+skills">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=500&lines=Blue+Team+%7C+SOC+Analyst;Cloud+Security+%7C+AWS;Threat+Detection+%7C+SIEM;MITRE+ATT%26CK+%7C+Incident+Response;Building+real+security+skills" alt="Typing SVG"/>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -33,14 +33,35 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **SIEM & Monitoring** | Splunk · Wazuh · Log Analysis · SPL · Alert Triage |
-| **Cloud Security** | AWS CloudTrail · IAM · EC2 · S3 · Security Groups · CSPM |
-| **Endpoint Security** | Windows Event Logs (4624/4625) · Linux Auth Logs · journalctl |
-| **Frameworks** | MITRE ATT&CK · Incident Response · Cyber Kill Chain |
-| **Languages** | Python · Bash |
-| **Tools** | Wireshark · Nmap · Git · VS Code · Ollama |
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### 🔵 SIEM & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B86C6?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+#### ☁️ Cloud Security
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+#### 🖥️ Endpoint & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🧠 Frameworks
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E3001B?style=for-the-badge&logo=mitre&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-6A0DAD?style=for-the-badge&logoColor=white)
+
+#### 🔧 Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 ---
 
