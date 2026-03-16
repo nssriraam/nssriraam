@@ -28,7 +28,6 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 - ☁️ **Cloud Security** — AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
 - 🤖 **AI + Security** — built a local LLM pipeline (Python + Ollama) for automated CloudTrail threat triage across a full attack chain
 - 🔍 **Detection Engineering** — Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
-- 🍯 **Honeypot Deployment** — deployed Cowrie SSH honeypot on AWS EC2, captured live brute-force sessions, credentials, and attacker commands
 - 🎯 Targeting **Junior SOC Analyst** and **Cloud Security** roles across India
 
 ---
