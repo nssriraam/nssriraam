@@ -28,6 +28,7 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 - ☁️ **Cloud Security** — AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
 - 🤖 **AI + Security** — built a local LLM pipeline (Python + Ollama) for automated CloudTrail threat triage across a full attack chain
 - 🔍 **Detection Engineering** — Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
+- 🍯 **Honeypot Deployment** — deployed Cowrie SSH honeypot on AWS EC2, captured live brute-force sessions, credentials, and attacker commands
 - 🎯 Targeting **Junior SOC Analyst** and **Cloud Security** roles across India
 
 ---
@@ -102,15 +103,14 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
       <a href="https://github.com/nssriraam/Phishing-Email-Analysis">→ View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 SOC Home Lab</h3>
-      <p>8 structured blue team projects — Linux & Windows log analysis, AWS CloudTrail & IAM monitoring, Splunk SSH detection, Wazuh SIEM deployment, and a full SOC incident case study with MITRE ATT&CK mapping.</p>
+      <h3>🍯 SSH Honeypot & Attack Analysis</h3>
+      <p>Deployed a Cowrie SSH honeypot on AWS EC2 (EU-North-1) to capture real-world attack behavior. Recorded 16 brute-force sessions, 16 unique credentials, and attacker commands including system recon and malware download attempts. Mapped to MITRE ATT&CK.</p>
       <p>
-        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Wazuh-3B86C6?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cowrie-FF0000?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/nssriraam/SOC-Home-Lab">→ View Project</a>
+      <a href="https://github.com/nssriraam/SSH-Honeypot-Attack-Analysis">→ View Project</a>
     </td>
   </tr>
 </table>
