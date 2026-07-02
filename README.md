@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Sriraam 👋</h1>
 
 <p align="center">
-  <b>CS Undergraduate · Blue Team · SOC & Cloud Security</b><br/>
-  </p>
+  <b>Cloud Security · AI Agent Development</b><br/>
+</p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend" alt="Typing SVG"/>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend;Building+to+create">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend;Building+to+create" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,13 +22,45 @@
 
 ### 👨‍💻 About Me
 
-I'm a CS undergrad specializing in **cloud security and SOC operations** — building practical blue team skills through hands-on home lab environments rather than certifications alone.
+I'm a CS undergrad who builds in two spaces — **Cloud Security** and **AI**.
 
-- 🔵 **SOC Operations** — log analysis, alert triage, incident response, MITRE ATT&CK mapping
+On the cloud security side, I specialize in **AWS environments and cloud-native defense** — building practical skills through hands-on home labs, detection engineering, and real-world security tooling across CloudTrail, IAM, S3, and CSPM.
+
+On the AI side, I build autonomous agent systems from scratch — local-first, voice-native, deeply integrated with the OS and purpose-built to go beyond what commercial AI tools allow.
+
 - ☁️ **Cloud Security** — AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
-- 🤖 **AI + Security** — built a local LLM pipeline (Python + Ollama) for automated CloudTrail threat triage across a full attack chain
+- 🤖 **AI Agent Development** — autonomous agents, multi-agent orchestration, local LLM pipelines, voice systems
+- 🔵 **SOC Operations** — log analysis, alert triage, incident response, MITRE ATT&CK mapping
 - 🔍 **Detection Engineering** — Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
-- 🎯 Targeting **Junior SOC Analyst** and **Cloud Security** roles across India
+- 🎯 Targeting **Cloud Security**, **AI Engineer**, and **SOC Analyst** roles across India
+
+---
+
+### 🔮 Flagship Project
+
+<table>
+  <tr>
+    <td>
+      <h3> Rika — Sovereign Personal AI Agent</h3>
+      <p>A sovereign AI agent built from scratch — she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kokoro_ONNX-8A2BE2?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pywebview-0078D7?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenWakeWord-FF6B6B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RapidOCR-FF9900?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pixtral-6C3483?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/nssriraam/Rika">→ View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,16 +70,30 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### 🔵 SIEM & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3B86C6?style=for-the-badge&logo=wazuh&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
 #### ☁️ Cloud Security
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+#### 🤖 AI & Agents
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logoColor=white)
+![Kokoro ONNX](https://img.shields.io/badge/Kokoro_ONNX-8A2BE2?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pywebview](https://img.shields.io/badge/Pywebview-0078D7?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![OpenWakeWord](https://img.shields.io/badge/OpenWakeWord-FF6B6B?style=for-the-badge&logoColor=white)
+![RapidOCR](https://img.shields.io/badge/RapidOCR-FF9900?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pixtral](https://img.shields.io/badge/Pixtral-6C3483?style=for-the-badge&logoColor=white)
+
+#### 🔵 SIEM & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B86C6?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 #### 🖥️ Endpoint & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -62,12 +108,11 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![Cowrie](https://img.shields.io/badge/Cowrie-FF0000?style=for-the-badge&logoColor=white)
 
 ---
 
-### 🔒 Featured Projects
+### 🔒 Security Projects
 
 <table>
   <tr>
@@ -119,8 +164,8 @@ I'm a CS undergrad specializing in **cloud security and SOC operations** — bui
 
 ### 🎯 Currently
 
-- 🔨 Building more cloud security tooling and detection engineering projects
-- 👀 Open to **entry-level SOC Analyst** and **Cloud Security** roles across India
+- 🔨 Building cloud security tooling and autonomous AI agent systems
+- 👀 Open to **Cloud Security**, **AI Engineer**, and **SOC Analyst** roles across India
 
 ---
 
