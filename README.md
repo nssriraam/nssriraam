@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Sriraam 👋</h1>
 
 <p align="center">
-  <b>Cloud Security · AI Agent Development</b><br/>
+  <b>CS Undergraduate · Cloud Security · AI Agent Development</b><br/>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend;Building+to+create">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+quieter+you+are%2C+the+more+you+can+hear;Security+is+a+mindset%2C+not+a+product;Building+to+defend;Building+to+create" alt="Typing SVG"/>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+smarter+the+agent%2C+the+stronger+the+shield;Identity+is+the+new+perimeter;Zero+trust%2C+infinite+scale;Building+AI+to+empower">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=9D80CC&center=true&vCenter=true&width=600&lines=The+smarter+the+agent%2C+the+stronger+the+shield;Identity+is+the+new+perimeter;Zero+trust%2C+infinite+scale;Building+AI+to+empower" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,16 +22,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a CS undergrad who builds in two spaces - **Cloud Security** and **AI**.
+I'm a CS undergrad who builds in two spaces — **Cloud Security** and **AI**.
 
-On the cloud security side, I specialize in **AWS environments and cloud-native defense** - building practical skills through hands-on home labs, detection engineering, and real-world security tooling across CloudTrail, IAM, S3, and CSPM.
+On the cloud security side, I specialize in **AWS environments and cloud-native defense** — building practical skills through hands-on home labs, detection engineering, and real-world security tooling across CloudTrail, IAM, S3, and CSPM.
 
-On the AI side, I build autonomous agent systems from scratch - local-first, voice-native, deeply integrated with the OS and purpose-built to go beyond what commercial AI tools allow.
+On the AI side, I build autonomous agent systems from scratch — local-first, voice-native, deeply integrated with the OS and purpose-built to go beyond what commercial AI tools allow.
 
-- ☁️ **Cloud Security** - AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
-- 🤖 **AI Agent Development** - autonomous agents, multi-agent orchestration, local LLM pipelines, voice systems
-- 🔵 **SOC Operations** - log analysis, alert triage, incident response, MITRE ATT&CK mapping
-- 🔍 **Detection Engineering** - Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
+- ☁️ **Cloud Security** — AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
+- 🤖 **AI Agent Development** — autonomous agents, multi-agent orchestration, local LLM pipelines, voice systems
+- 🔵 **SOC Operations** — log analysis, alert triage, incident response, MITRE ATT&CK mapping
+- 🔍 **Detection Engineering** — Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
 - 🎯 Targeting **Cloud Security**, **AI Engineer**, and **SOC Analyst** roles across India
 
 ---
@@ -41,8 +41,8 @@ On the AI side, I build autonomous agent systems from scratch - local-first, voi
 <table>
   <tr>
     <td>
-      <h3> Rika - Sovereign Personal AI Agent</h3>
-      <p>A sovereign AI agent built from scratch - she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.</p>
+      <h3> Rika — Sovereign Personal AI Agent</h3>
+      <p>A sovereign AI agent built from scratch — she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
@@ -118,7 +118,7 @@ On the AI side, I build autonomous agent systems from scratch - local-first, voi
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI CloudTrail Anomaly Detector</h3>
-      <p>Local LLM pipeline (Python + Ollama) that triages a 20-event AWS attack chain - brute force → privilege escalation → defense evasion → data exfiltration. Auto-generates SOC incident reports with MITRE ATT&CK mapping.</p>
+      <p>Local LLM pipeline (Python + Ollama) that triages a 20-event AWS attack chain — brute force → privilege escalation → defense evasion → data exfiltration. Auto-generates SOC incident reports with MITRE ATT&CK mapping.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
@@ -140,7 +140,7 @@ On the AI side, I build autonomous agent systems from scratch - local-first, voi
   <tr>
     <td width="50%" valign="top">
       <h3>🎣 Phishing Email Analysis</h3>
-      <p>Hands-on phishing email forensics lab - real sample investigation, Python-based header parsing, IOC extraction, and full MITRE ATT&CK mapping across the attack lifecycle.</p>
+      <p>Hands-on phishing email forensics lab — real sample investigation, Python-based header parsing, IOC extraction, and full MITRE ATT&CK mapping across the attack lifecycle.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
