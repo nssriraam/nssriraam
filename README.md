@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sriraam 👋</h1>
 
 <p align="center">
-  <b>CS Undergraduate · Cloud Security · AI Agent Development</b><br/>
+  <b>Cloud Security · AI Agent Development</b><br/>
 </p>
 
 <p align="center">
@@ -22,16 +22,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a CS undergrad who builds in two spaces — **Cloud Security** and **AI**.
+I'm a CS undergrad who builds in two spaces - **Cloud Security** and **AI**.
 
-On the cloud security side, I specialize in **AWS environments and cloud-native defense** — building practical skills through hands-on home labs, detection engineering, and real-world security tooling across CloudTrail, IAM, S3, and CSPM.
+On the cloud security side, I specialize in **AWS environments and cloud-native defense** - building practical skills through hands-on home labs, detection engineering, and real-world security tooling across CloudTrail, IAM, S3, and CSPM.
 
-On the AI side, I build autonomous agent systems from scratch — local-first, voice-native, deeply integrated with the OS and purpose-built to go beyond what commercial AI tools allow.
+On the AI side, I build autonomous agent systems from scratch - local-first, voice-native, deeply integrated with the OS and purpose-built to go beyond what commercial AI tools allow.
 
-- ☁️ **Cloud Security** — AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
-- 🤖 **AI Agent Development** — autonomous agents, multi-agent orchestration, local LLM pipelines, voice systems
-- 🔵 **SOC Operations** — log analysis, alert triage, incident response, MITRE ATT&CK mapping
-- 🔍 **Detection Engineering** — Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
+- ☁️ **Cloud Security** - AWS CloudTrail monitoring, IAM anomaly detection, S3 security, CSPM tooling
+- 🤖 **AI Agent Development** - autonomous agents, multi-agent orchestration, local LLM pipelines, voice systems
+- 🔵 **SOC Operations** - log analysis, alert triage, incident response, MITRE ATT&CK mapping
+- 🔍 **Detection Engineering** - Splunk SPL queries, Wazuh SIEM deployment, Windows & Linux endpoint analysis
 - 🎯 Targeting **Cloud Security**, **AI Engineer**, and **SOC Analyst** roles across India
 
 ---
@@ -41,8 +41,8 @@ On the AI side, I build autonomous agent systems from scratch — local-first, v
 <table>
   <tr>
     <td>
-      <h3> Rika — Sovereign Personal AI Agent</h3>
-      <p>A sovereign AI agent built from scratch — she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.</p>
+      <h3> Rika - Sovereign Personal AI Agent</h3>
+      <p>A sovereign AI agent built from scratch - she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
