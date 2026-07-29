@@ -188,7 +188,7 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
 <p align="center"><i>Not everything I build is about security or AI. Sometimes I just build because I want to.</i></p>
 
 <img src="assets/gradient-border.svg" align="left" height="165" hspace="12"/>
-<b>🎬 FrameCut — Your Cinema. Your Story.</b><br/><br/>
+<b>🎬 FrameCut - Your Cinema. Your Story.</b><br/><br/>
 A full-stack movie and TV discovery platform built for cinephiles. Personalized watchlists, star ratings, written reviews, director deep-dives, a mood-based recommendation engine, and hidden gems surfacing — all backed by automated TMDB API sync. Ships with JWT auth, infinite pagination, and full Docker containerization.<br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
