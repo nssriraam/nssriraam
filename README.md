@@ -10,7 +10,7 @@
 ---
 
 <h3>Know Me</h3>
-<img src="assets/orb.gif" alt="Orb Animation" align="right" width="250"/>
+<img src="assets/orb.gif" alt="Orb Animation" align="right" width="220" hspace="20" vspace="5"/>
 <p>🔭 I operate across two domains - cloud security and AI systems. Not as buzzwords. As things I've actually built and broken.</p>
 <p>☁️ On the security side - AWS is my playground. CloudTrail, IAM, S3, CSPM, detection engineering. I know how attacks move through cloud environments because I've simulated them myself.</p>
 <p>🤖 On the AI side - I build agents that go beyond chat. Voice, memory, screen perception, OS control, autonomous execution. Systems that actually do things.</p>
