@@ -198,7 +198,7 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nssriraam&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&ring_color=FF9900" alt="GitHub Stats" height="195"/>
   </a>
   <a href="https://github.com/nssriraam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nssriraam&hide_border=true&background=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9900&currStreakLabel=FF9900&fire=FF9900&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
+    <img src="https://streak-stats.demolab.com/?user=nssriraam&hide_border=true&background=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9900&currStreakLabel=FF9900&fire=FF9900&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
   </a>
   <br/><br/>
   <a href="https://github.com/nssriraam">
