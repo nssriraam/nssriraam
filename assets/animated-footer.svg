@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="100%" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ACC1" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#1E88E5" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#00ACC1" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="orange-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D84315" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#F9A825" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#D84315" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="pink-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#AB47BC" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#D81B60" stop-opacity="0.65" />
+      <stop offset="100%" stop-color="#AB47BC" stop-opacity="0.5" />
+    </linearGradient>
+  </defs>
+
+  <!-- Pink Wave (Back) -->
+  <path fill="url(#pink-glow)" d="M 0 45 Q 125 5, 250 45 T 500 45 T 750 45 T 1000 45 T 1250 45 T 1500 45 T 1750 45 T 2000 45 L 2000 100 L 0 100 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="9s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Cyan Wave (Middle) -->
+  <path fill="url(#cyan-glow)" d="M 0 55 Q 125 85, 250 55 T 500 55 T 750 55 T 1000 55 T 1250 55 T 1500 55 T 1750 55 T 2000 55 L 2000 100 L 0 100 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="6s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Orange Wave (Front) -->
+  <path fill="url(#orange-glow)" d="M 0 65 Q 125 35, 250 65 T 500 65 T 750 65 T 1000 65 T 1250 65 T 1500 65 T 1750 65 T 2000 65 L 2000 100 L 0 100 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="4s" repeatCount="indefinite" />
+  </path>
+</svg>
