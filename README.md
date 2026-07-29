@@ -42,29 +42,12 @@
 
 <h3>Flagship Project</h3>
 
-<table border="1" width="100%">
-  <tr>
-    <td>
-      <h3> Rika - Sovereign Personal AI</h3>
-<p>A sovereign AI agent built from scratch - she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kokoro_ONNX-8A2BE2?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pywebview-0078D7?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenWakeWord-FF6B6B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RapidOCR-FF9900?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pixtral-6C3483?style=flat-square&logoColor=white"/>
-</p>
-      <a href="https://github.com/nssriraam/Rika">→ View Project</a>
-    </td>
-  </tr>
-</table>
+<img src="assets/gradient-border-rika.svg" align="left" height="150" hspace="12"/>
+<b>🧠 Rika — Sovereign Personal AI</b><br/><br/>
+A sovereign AI agent built from scratch - she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Kokoro_ONNX-8A2BE2?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Pywebview-0078D7?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/OpenWakeWord-FF6B6B?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/RapidOCR-FF9900?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Pixtral-6C3483?style=flat-square&logoColor=white"/><br/><br/>
+<a href="https://github.com/nssriraam/Rika">View on GitHub</a>
+<br clear="left"/>
 
 ---
 
@@ -147,7 +130,7 @@
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
         <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/nssriraam/argus">→ View Project</a>
+      <a href="https://github.com/nssriraam/argus">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>Marrow - Where FinOps Meets SecOps</h3>
@@ -159,7 +142,7 @@
         <img src="https://img.shields.io/badge/AMD-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/nssriraam/marrow">→ View Project</a>
+      <a href="https://github.com/nssriraam/marrow">View Project</a>
     </td>
   </tr>
   <tr>
@@ -171,7 +154,7 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/nssriraam/SSH-Honeypot-Attack-Analysis">→ View Project</a>
+      <a href="https://github.com/nssriraam/SSH-Honeypot-Attack-Analysis">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>AWS CSPM Tool</h3>
@@ -181,12 +164,25 @@
         <img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       </p>
-      <a href="https://github.com/nssriraam/AWS-CSPM-Tool">→ View Project</a>
+      <a href="https://github.com/nssriraam/AWS-CSPM-Tool">View Project</a>
     </td>
   </tr>
 </table>
 
 ---
+
+<h3 align="center">Beyond the Domain</h3>
+<p align="center"><i>Not everything I build is about security or AI. Sometimes I just build because I want to.</i></p>
+
+<img src="assets/gradient-border.svg" align="left" height="165" hspace="12"/>
+<b>🎬 FrameCut — Your Cinema. Your Story.</b><br/><br/>
+A full-stack movie and TV discovery platform built for cinephiles. Personalized watchlists, star ratings, written reviews, director deep-dives, a mood-based recommendation engine, and hidden gems surfacing — all backed by automated TMDB API sync. Ships with JWT auth, infinite pagination, and full Docker containerization.<br/><br/>
+<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Live_on-Render-46E3B7?style=flat-square&logo=render&logoColor=white"/><br/><br/>
+<a href="https://framecut-kmem.onrender.com/">🌐 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/nssriraam/framecut">View on GitHub</a>
+<br clear="left"/>
+
+---
+
 
 <div align="center">
   <h3>Stats</h3>
