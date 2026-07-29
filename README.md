@@ -10,21 +10,14 @@
 ---
 
 <h3>Know Me</h3>
-<table border="0" style="border: none; background: transparent;">
-  <tr style="border: none;">
-    <td width="70%" valign="top" style="border: none;">
-      <p>🔭 I operate across two domains - cloud security and AI systems. Not as buzzwords. As things I've actually built and broken.</p>
-      <p>☁️ On the security side - AWS is my playground. CloudTrail, IAM, S3, CSPM, detection engineering. I know how attacks move through cloud environments because I've simulated them myself.</p>
-      <p>🤖 On the AI side - I build agents that go beyond chat. Voice, memory, screen perception, OS control, autonomous execution. Systems that actually do things.</p>
-      <p>🧠 I don't just detect threats - I trace how they move, chain by chain, tactic by tactic.</p>
-      <p>⚡ Everything I know came from building something, watching it fail, and figuring out why.</p>
-      <p>🎯 Currently: making things that don't exist yet.</p>
-    </td>
-    <td width="30%" valign="top" align="center" style="border: none;">
-      <img src="assets/orb.gif" alt="Orb Animation" width="100%" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+<img src="assets/orb.gif" alt="Orb Animation" align="right" width="250"/>
+<p>🔭 I operate across two domains - cloud security and AI systems. Not as buzzwords. As things I've actually built and broken.</p>
+<p>☁️ On the security side - AWS is my playground. CloudTrail, IAM, S3, CSPM, detection engineering. I know how attacks move through cloud environments because I've simulated them myself.</p>
+<p>🤖 On the AI side - I build agents that go beyond chat. Voice, memory, screen perception, OS control, autonomous execution. Systems that actually do things.</p>
+<p>🧠 I don't just detect threats - I trace how they move, chain by chain, tactic by tactic.</p>
+<p>⚡ Everything I know came from building something, watching it fail, and figuring out why.</p>
+<p>🎯 Currently: making things that don't exist yet.</p>
+<br clear="right"/>
 
 ---
 
