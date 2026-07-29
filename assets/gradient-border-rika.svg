@@ -1,0 +1,9 @@
+<svg width="4" height="200" viewBox="0 0 4 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradRika" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C41F61"/> <!-- Sovereign Magenta Light -->
+      <stop offset="100%" stop-color="#8B1646"/> <!-- Sovereign Magenta Dark -->
+    </linearGradient>
+  </defs>
+  <rect width="4" height="200" rx="2" fill="url(#gradRika)"/>
+</svg>
