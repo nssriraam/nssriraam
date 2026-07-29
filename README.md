@@ -126,6 +126,9 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cowrie-FF0000?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCode-10B981?style=for-the-badge&logoColor=white"/>
   </p>
 </div>
 
