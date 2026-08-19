@@ -80,6 +80,8 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
     <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LocalStack-FFFFFF?style=for-the-badge&logo=localstack&logoColor=black"/>
   </p>
   <h4>AI & Agents</h4>
   <p>
@@ -122,6 +124,7 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cowrie-FF0000?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
     <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCode-10B981?style=for-the-badge&logoColor=white"/>
@@ -160,6 +163,19 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>Lethe - Ephemeral Cloud Environments</h3>
+      <p>An orchestration engine that spins up completely isolated, zero-trust cloud environments for security research. Parses Terraform/HCL to build dependency graphs, provisions via LocalStack or AWS APIs, and tracks a TTL countdown to auto-destroy resources while maintaining an immutable audit log.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LocalStack-FFFFFF?style=flat-square&logo=localstack&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/nssriraam/lethe">View Project</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>SSH Honeypot & Attack Analysis</h3>
       <p>Deployed a Cowrie SSH honeypot on AWS EC2 (EU-North-1) to capture real-world attack behavior. Recorded 16 brute-force sessions, 16 unique credentials, and attacker commands including system recon and malware download attempts. Mapped to MITRE ATT&CK.</p>
       <p>
@@ -168,16 +184,6 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
         <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
       </p>
       <a href="https://github.com/nssriraam/SSH-Honeypot-Attack-Analysis">View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AWS CSPM Tool</h3>
-      <p>Custom cloud security posture scanner built with Python + Boto3. Audits AWS environments for S3 public access, overpermissive IAM policies, risky security groups, and CloudTrail logging gaps. Outputs prioritized risk reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-      </p>
-      <a href="https://github.com/nssriraam/AWS-CSPM-Tool">View Project</a>
     </td>
   </tr>
 </table>
@@ -188,8 +194,8 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
 <p align="center"><i>Not everything I build is about security or AI. Sometimes I just build because I want to.</i></p>
 
 <img src="assets/gradient-border.svg" align="left" height="165" hspace="12"/>
-<b>🎬 FrameCut - Your Cinema. Your Story.</b><br/><br/>
-A full-stack movie and TV discovery platform built for cinephiles. Personalized watchlists, star ratings, written reviews, director deep-dives, a mood-based recommendation engine, and hidden gems surfacing. All backed by automated TMDB API sync. Ships with JWT auth, infinite pagination, and full Docker containerization.<br/><br/>
+<b>🎬 FrameCut — Your Cinema. Your Story.</b><br/><br/>
+A full-stack movie and TV discovery platform built for cinephiles. Personalized watchlists, star ratings, written reviews, director deep-dives, a mood-based recommendation engine, and hidden gems surfacing — all backed by automated TMDB API sync. Ships with JWT auth, infinite pagination, and full Docker containerization.<br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -210,7 +216,7 @@ A full-stack movie and TV discovery platform built for cinephiles. Personalized 
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nssriraam&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&ring_color=FF9900" alt="GitHub Stats" height="195"/>
   </a>
   <a href="https://github.com/nssriraam">
-    <img src="https://streak-stats.demolab.com/?user=nssriraam&hide_border=true&background=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9900&currStreakLabel=FF9900&fire=FF9900&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
+    <img src="https://streak-stats-mu.vercel.app/?user=nssriraam&hide_border=true&background=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9900&currStreakLabel=FF9900&fire=FF9900&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
   </a>
   <br/><br/>
   <a href="https://github.com/nssriraam">
