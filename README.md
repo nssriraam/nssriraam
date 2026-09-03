@@ -215,10 +215,7 @@ A full-stack movie and TV discovery platform built for cinephiles. Personalized 
     <img src="https://streak-stats-mu.vercel.app/?user=nssriraam&hide_border=true&background=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9900&currStreakLabel=FF9900&fire=FF9900&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/nssriraam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nssriraam&bg_color=00000000&color=FF9900&line=3B82F6&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
-  </a>
-  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nssriraam/nssriraam/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nssriraam/nssriraam/output/github-contribution-grid-snake.svg">
