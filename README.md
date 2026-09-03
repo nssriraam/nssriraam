@@ -42,8 +42,7 @@
 
 <h3>Flagship Project</h3>
 
-<img src="assets/gradient-border-rika.svg" align="left" height="150" hspace="12"/>
-<b>🧠 Rika — Sovereign Personal AI</b><br/><br/>
+<b>🧠 Rika - Sovereign Personal AI</b><br/><br/>
 A sovereign AI agent built from scratch - she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.<br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -60,7 +59,6 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
   <img src="https://img.shields.io/badge/Pixtral-6C3483?style=flat-square&logoColor=white"/>
 </p>
 <a href="https://github.com/nssriraam/Rika">View on GitHub</a>
-<br clear="left"/>
 
 ---
 
@@ -193,8 +191,7 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
 <h3 align="center">Beyond the Domain</h3>
 <p align="center"><i>Not everything I build is about security or AI. Sometimes I just build because I want to.</i></p>
 
-<img src="assets/gradient-border.svg" align="left" height="165" hspace="12"/>
-<b>🎬 FrameCut — Your Cinema. Your Story.</b><br/><br/>
+<b>🎬 FrameCut - Your Cinema. Your Story.</b><br/><br/>
 A full-stack movie and TV discovery platform built for cinephiles. Personalized watchlists, star ratings, written reviews, director deep-dives, a mood-based recommendation engine, and hidden gems surfacing — all backed by automated TMDB API sync. Ships with JWT auth, infinite pagination, and full Docker containerization.<br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -205,7 +202,6 @@ A full-stack movie and TV discovery platform built for cinephiles. Personalized 
   <img src="https://img.shields.io/badge/Live_on-Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 <a href="https://framecut-kmem.onrender.com/">🌐 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/nssriraam/framecut">View on GitHub</a>
-<br clear="left"/>
 
 ---
 
