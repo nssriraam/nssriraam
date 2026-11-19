@@ -200,12 +200,7 @@ A full-stack movie and TV discovery platform built for cinephiles. Personalized 
 
 <div align="center">
   <h3>Stats</h3>
-  <a href="https://github.com/nssriraam">
-    <img src="https://github-readme-stats.vercel.app/api?username=nssriraam&show_icons=true&hide_border=true&bg_color=00000000&title_color=DFBA73&text_color=FFFFFF&icon_color=DFBA73&ring_color=DFBA73" alt="GitHub Stats" height="195"/>
-  </a>
-  <a href="https://github.com/nssriraam">
-    <img src="https://streak-stats-mu.vercel.app/?user=nssriraam&hide_border=true&background=00000000&title_color=DFBA73&text_color=FFFFFF&icon_color=DFBA73&sideNums=FFFFFF&sideLabels=FFFFFF&ring=DFBA73&currStreakLabel=DFBA73&fire=DFBA73&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
-  </a>
+  <a href="https://github.com/nssriraam"><img src="https://github-readme-stats.vercel.app/api?username=nssriraam&show_icons=true&hide_border=true&bg_color=00000000&title_color=DFBA73&text_color=FFFFFF&icon_color=DFBA73&ring_color=DFBA73" alt="GitHub Stats" width="49%"/></a>&nbsp;<a href="https://github.com/nssriraam"><img src="https://streak-stats-mu.vercel.app/?user=nssriraam&hide_border=true&background=00000000&title_color=DFBA73&text_color=FFFFFF&icon_color=DFBA73&sideNums=FFFFFF&sideLabels=FFFFFF&ring=DFBA73&currStreakLabel=DFBA73&fire=DFBA73&currStreakNum=FFFFFF" alt="GitHub Streak" width="49%"/></a>
 </div>
 
 <br/>
