@@ -2,9 +2,7 @@
   <img src="assets/header.png" alt="Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
   <br/><br/>
   
-  <h1>Hello there! I'm Sriraam 👋</h1>
-  
-  <p>Some people study security. I build tools that practice it. Some people use AI. I build AI that uses itself. I architect systems from scratch, break them until they work, and ship things that are genuinely new. Cloud security engineer & analyst. AI agent builder. That's my range, and I'm just getting started.</p>
+  <p>Some people study security. I build tools that practice it. Some people use AI. I build AI that uses itself. I architect systems from scratch, break them until they work, and ship things that are genuinely new. Cloud security engineer &amp; analyst. AI agent builder. That's my range, and I'm just getting started.</p>
 </div>
 
 ---
@@ -23,7 +21,7 @@
 
 <div align="center">
   <h3>Connect</h3>
-  <a href="https://nssriraam.github.io/portfolio"><img src="https://api.iconify.design/mdi:account-circle.svg?color=%238B5CF6" alt="Portfolio" height="40" width="40"/></a>
+  <a href="https://nssriraam.github.io/portfolio"><img src="assets/portfolio.svg" alt="Portfolio" height="40" width="40"/></a>
   &nbsp;
   <a href="mailto:nosriraam7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/></a>
   &nbsp;
@@ -40,92 +38,71 @@
 
 ---
 
-<h3>Flagship Project</h3>
+<h3>👑 Flagship Project</h3>
 
-<b>🧠 Rika - Sovereign Personal AI</b><br/><br/>
-A sovereign AI agent built from scratch - she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.<br/><br/>
+<b>🧠 Rika — Sovereign Personal AI</b> &nbsp; <img src="https://img.shields.io/badge/Flagship-Autonomous%20Agent-21262d?style=flat-square&color=DFBA73"/><br/><br/>
+A sovereign AI agent built from scratch — she hears you, sees your screen, remembers everything, and controls your OS. Voice-native with sub-300ms response, 6-layer persistent memory, multi-agent swarm, and a built-in cyber operations suite. Fully local. Minimal cloud footprint. Zero restrictions.<br/><br/>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kokoro_ONNX-8A2BE2?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pywebview-0078D7?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenWakeWord-FF6B6B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RapidOCR-FF9900?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pixtral-6C3483?style=flat-square&logoColor=white"/>
+  <code>Sub-300ms Voice Pipeline</code> &bull; <code>6-Layer Memory</code> &bull; <code>Multi-Agent Swarm</code> &bull; <code>Local OS Control</code> &bull; <code>Screen Perception</code>
 </p>
-<a href="https://github.com/nssriraam/Rika">View on GitHub</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Groq-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Whisper-111111?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=003B57"/>
+  <img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=2EAD33"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+</p>
+<a href="https://github.com/nssriraam/Rika"><b>Explore Flagship Repository →</b></a>
 
 ---
 
 <h3>Tech Stack</h3>
 
 <div>
-  <h4>Languages & Backend</h4>
+  <h4>☁️ Cloud Security & Forensics</h4>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+    <img src="https://img.shields.io/badge/CloudTrail-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+    <img src="https://img.shields.io/badge/IAM-111111?style=flat-square&logo=amazonwebservices&logoColor=DD344C"/>
+    <img src="https://img.shields.io/badge/S3-111111?style=flat-square&logo=amazonwebservices&logoColor=569A31"/>
+    <img src="https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=7B42BC"/>
+    <img src="https://img.shields.io/badge/LocalStack-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=F55036"/>
+    <img src="https://img.shields.io/badge/Wazuh-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Elastic-111111?style=flat-square&logo=elastic&logoColor=005571"/>
   </p>
-  <h4>Cloud Security</h4>
+  <h4>🤖 AI Systems & Autonomous Agents</h4>
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LocalStack-FFFFFF?style=for-the-badge&logo=localstack&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Groq-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Whisper-111111?style=flat-square&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kokoro_ONNX-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688"/>
+    <img src="https://img.shields.io/badge/Pywebview-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=2EAD33"/>
+    <img src="https://img.shields.io/badge/OpenWakeWord-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/RapidOCR-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=003B57"/>
+    <img src="https://img.shields.io/badge/Fireworks_AI-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/DeepSeek-111111?style=flat-square&logo=deepseek&logoColor=4A90E2"/>
   </p>
-  <h4>AI & Agents</h4>
+  <h4>⚡ Systems, Threat Intel & Tools</h4>
   <p>
-    <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kokoro_ONNX-8A2BE2?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pywebview-0078D7?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenWakeWord-FF6B6B?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RapidOCR-FF9900?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pixtral-6C3483?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Fireworks_AI-8B5CF6?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DeepSeek-4A90E2?style=for-the-badge&logoColor=white"/>
-  </p>
-  <h4>SIEM & Monitoring</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Wazuh-3B86C6?style=for-the-badge&logo=wazuh&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  </p>
-  <h4>Endpoint & OS</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </p>
-  <h4>Frameworks</h4>
-  <p>
-    <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=for-the-badge&logo=mitre&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Incident_Response-6A0DAD?style=for-the-badge&logoColor=white"/>
-  </p>
-  <h4>Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Cowrie-FF0000?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenCode-10B981?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624"/>
+    <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+    <img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7"/>
+    <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Cowrie-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/MITRE_ATT%26CK-111111?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=4EAA25"/>
+    <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=D97706"/>
+    <img src="https://img.shields.io/badge/OpenCode-111111?style=flat-square&logo=visualstudiocode&logoColor=10B981"/>
+    <img src="https://img.shields.io/badge/Antigravity-111111?style=flat-square&logo=google&logoColor=7C3AED"/>
   </p>
 </div>
 
@@ -136,52 +113,67 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Argus - 100 Eyes on Your Cloud</h3>
-      <p>Free, open-source cloud forensics platform — an alternative to $50k/yr tools like Cado Security. Multi-cloud (AWS + Azure) ingestion, 26+ MITRE ATT&CK detection rules, attack chain correlation, behavioral baselining, live dashboard, and forensic PDF reporting with chain-of-custody integrity.</p>
+      <h3>🛡️ Argus — Cloud Threat Detection & Forensics</h3>
+      <img src="https://img.shields.io/badge/Release-v1.0%20Production-21262d?style=flat-square&color=DFBA73"/><br/><br/>
+      <p>Free, open-source cloud forensics platform — an alternative to $50k/yr tools like Cado Security. Ingests AWS CloudTrail activity logs, correlates attack chains across 26+ MITRE ATT&CK rules, and generates court-admissible forensic PDF reports with chain-of-custody integrity.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
+        <code>26+ MITRE Rules</code> &bull; <code>AWS Log Ingestion</code> &bull; <code>Graph Attack Chains</code> &bull; <code>Chain-of-Custody</code>
       </p>
-      <a href="https://github.com/nssriraam/argus">View Project</a>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+        <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/CloudTrail-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+      </p>
+      <a href="https://github.com/nssriraam/argus"><b>Explore Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Marrow - Where FinOps Meets SecOps</h3>
-      <p>Correlates AWS billing data with Security Hub findings to find idle, exposed resources. Uses an AMD-hosted Fireworks AI model (DeepSeek V4 Pro) to reason over structured JSON payloads, generating deterministic terminate/patch decisions with exact cost savings and self-assessed confidence scores.</p>
+      <h3>⚡ Marrow — Where FinOps Meets SecOps</h3>
+      <img src="https://img.shields.io/badge/Release-v1.0%20Production-21262d?style=flat-square&color=DFBA73"/><br/><br/>
+      <p>Autonomous command center that correlates AWS billing footprints with Security Hub findings to identify exposed, idle resources. Leverages an AMD-hosted Fireworks AI model (DeepSeek V4 Pro) to reason over structured JSON payloads, generating deterministic terminate/patch decisions with exact cost savings.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Fireworks_AI-8B5CF6?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AMD-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <code>Fireworks AI (DeepSeek)</code> &bull; <code>AMD Instinct MI300X</code> &bull; <code>Cost + SecOps Reasoning</code>
       </p>
-      <a href="https://github.com/nssriraam/marrow">View Project</a>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+        <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+      </p>
+      <a href="https://github.com/nssriraam/marrow"><b>Explore Repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Lethe - Ephemeral Cloud Environments</h3>
-      <p>An orchestration engine that spins up completely isolated, zero-trust cloud environments for security research. Parses Terraform/HCL to build dependency graphs, provisions via LocalStack or AWS APIs, and tracks a TTL countdown to auto-destroy resources while maintaining an immutable audit log.</p>
+      <h3>🔒 Lethe — Ephemeral Zero-Trust Cloud Sandboxes</h3>
+      <img src="https://img.shields.io/badge/Release-v1.0%20Production-21262d?style=flat-square&color=DFBA73"/><br/><br/>
+      <p>An orchestration engine that provisions completely isolated, zero-trust cloud environments for security research. Parses Terraform/HCL to build dependency graphs, provisions via LocalStack or real AWS APIs, and tracks a TTL countdown to auto-destroy resources while writing an immutable forensic audit log.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LocalStack-FFFFFF?style=flat-square&logo=localstack&logoColor=black"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <code>IaC Graph Engine</code> &bull; <code>LocalStack Offline</code> &bull; <code>Automated TTL Teardown</code> &bull; <code>Immutable Audit</code>
       </p>
-      <a href="https://github.com/nssriraam/lethe">View Project</a>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+        <img src="https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=7B42BC"/>
+        <img src="https://img.shields.io/badge/LocalStack-111111?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688"/>
+      </p>
+      <a href="https://github.com/nssriraam/lethe"><b>Explore Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>SSH Honeypot & Attack Analysis</h3>
-      <p>Deployed a Cowrie SSH honeypot on AWS EC2 (EU-North-1) to capture real-world attack behavior. Recorded 16 brute-force sessions, 16 unique credentials, and attacker commands including system recon and malware download attempts. Mapped to MITRE ATT&CK.</p>
+      <h3>🎯 SSH Honeypot & Attack Analysis</h3>
+      <img src="https://img.shields.io/badge/Study-Threat%20Intelligence-21262d?style=flat-square&color=DFBA73"/><br/><br/>
+      <p>Deployed an instrumented Cowrie SSH honeypot on AWS EC2 (EU-North-1) to capture and analyze real-world brute-force tradecraft. Recorded 16 active sessions, 16 unique attacker credentials, and mapped post-exploitation reconnaissance commands directly to MITRE ATT&CK tactics.</p>
       <p>
-        <img src="https://img.shields.io/badge/Cowrie-FF0000?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E3001B?style=flat-square&logoColor=white"/>
+        <code>Cowrie Honeypot</code> &bull; <code>AWS EC2 (EU-North-1)</code> &bull; <code>MITRE ATT&CK Mapping</code> &bull; <code>Attack Baselines</code>
       </p>
-      <a href="https://github.com/nssriraam/SSH-Honeypot-Attack-Analysis">View Project</a>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624"/>
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+        <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=4EAA25"/>
+      </p>
+      <a href="https://github.com/nssriraam/SSH-Honeypot-Attack-Analysis"><b>Explore Repository →</b></a>
     </td>
   </tr>
 </table>
@@ -191,36 +183,29 @@ A sovereign AI agent built from scratch - she hears you, sees your screen, remem
 <h3 align="center">Beyond the Domain</h3>
 <p align="center"><i>Not everything I build is about security or AI. Sometimes I just build because I want to.</i></p>
 
-<b>🎬 FrameCut - Your Cinema. Your Story.</b><br/><br/>
+<b>🎬 FrameCut — Your Cinema. Your Story.</b> &nbsp; <img src="https://img.shields.io/badge/Status-Live%20App-21262d?style=flat-square&color=DFBA73"/><br/><br/>
 A full-stack movie and TV discovery platform built for cinephiles. Personalized watchlists, star ratings, written reviews, director deep-dives, a mood-based recommendation engine, and hidden gems surfacing — all backed by automated TMDB API sync. Ships with JWT auth, infinite pagination, and full Docker containerization.<br/><br/>
 <p>
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Live_on-Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+  <code>Java 17 & Spring Boot</code> &bull; <code>PostgreSQL & Docker</code> &bull; <code>TMDB API Sync</code> &bull; <code>JWT Auth</code> &bull; <code>Render Live Deploy</code>
 </p>
-<a href="https://framecut-kmem.onrender.com/">🌐 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/nssriraam/framecut">View on GitHub</a>
+<p>
+  <img src="https://img.shields.io/badge/Java_17-111111?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+</p>
+<a href="https://framecut-kmem.onrender.com/">🌐 <b>Live Demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/nssriraam/framecut"><b>View on GitHub →</b></a>
 
 ---
-
 
 <div align="center">
   <h3>Stats</h3>
   <a href="https://github.com/nssriraam">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nssriraam&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&ring_color=FF9900" alt="GitHub Stats" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nssriraam&show_icons=true&hide_border=true&bg_color=00000000&title_color=DFBA73&text_color=FFFFFF&icon_color=DFBA73&ring_color=DFBA73" alt="GitHub Stats" height="195"/>
   </a>
   <a href="https://github.com/nssriraam">
-    <img src="https://streak-stats-mu.vercel.app/?user=nssriraam&hide_border=true&background=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9900&currStreakLabel=FF9900&fire=FF9900&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
+    <img src="https://streak-stats-mu.vercel.app/?user=nssriraam&hide_border=true&background=00000000&title_color=DFBA73&text_color=FFFFFF&icon_color=DFBA73&sideNums=FFFFFF&sideLabels=FFFFFF&ring=DFBA73&currStreakLabel=DFBA73&fire=DFBA73&currStreakNum=FFFFFF" alt="GitHub Streak" height="195"/>
   </a>
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nssriraam/nssriraam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nssriraam/nssriraam/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nssriraam/nssriraam/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
 </div>
 
 <br/>
