@@ -194,7 +194,7 @@ A full-stack movie and TV discovery platform built for cinephiles. Personalized 
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
 </p>
-<a href="https://framecut-kmem.onrender.com/">🌐 <b>Live Demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/nssriraam/framecut"><b>View on GitHub →</b></a>
+<a href="https://framecut-kmem.onrender.com/">🌐 <b>Live Website →</b></a> &nbsp;·&nbsp; <a href="https://github.com/nssriraam/framecut"><b>View on GitHub →</b></a>
 
 ---
 
