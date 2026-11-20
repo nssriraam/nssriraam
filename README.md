@@ -21,7 +21,7 @@
 
 <div align="center">
   <h3>Connect</h3>
-  <a href="https://nssriraam.github.io/portfolio"><img src="assets/portfolio.svg" alt="Portfolio" height="40" width="40"/></a>
+  <a href="https://sriraamnagarajan.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio" height="40" width="40"/></a>
   &nbsp;
   <a href="mailto:nosriraam7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/></a>
   &nbsp;
